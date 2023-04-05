@@ -8,7 +8,7 @@ public class Brand {
     // 企业名称
     private String companyName;
     // 排序字段
-    private Integer ordered;
+    private Integer odrdered;
     // 描述信息
     private String description;
     // 状态：0：禁用  1：启用
